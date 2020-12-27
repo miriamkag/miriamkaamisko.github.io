@@ -1,0 +1,127 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+
+main /*section*/ {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: space-between;
+  /*background-color: #ffe9ec;*/
+}
+
+.uvod{
+  height: 100vh;
+  min-width: 400px;
+  padding-left: 5%;
+  margin-right: 10%;
+}
+
+aside{
+  background-image:url(Images/Svatba.JPG);
+  background-size: cover;
+  background-position: 40% 50%;
+  min-width: 300px;
+  height: 100vh;
+  flex-grow: 0.9;
+}
+
+nav {
+  height:15vh;
+  margin-top:12vh;
+}
+
+nav a{
+  color: inherit;
+  margin-right: 100px;
+}
+
+.maja{
+  height: 25vh;
+  margin-bottom: 20vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+h1{
+  padding-bottom:8px;
+  font-size: 60px;
+  font-style: oblique;
+  font-family: serif;
+  letter-spacing: 3px;
+  color: #ee261d;
+}
+
+h2{
+  padding-bottom: 23vh;
+  font-size: 25px;
+}
+
+h4{
+  font-size: 30px;
+  margin-bottom: 1.5%;
+}
+
+p{
+  font-size: 18px;
+  line-height: 1.2;
+}
+
+
+
+.miesto {
+  background-image: url(Images/frame6.jpg);
+  background-size: 120%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.rozcestnik{
+  height: 450px;
+}
+
+.firstsection{
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.rsvp {
+  background-color: #ffe9ec;
+  max-height: 100vh;
+  width: 1000px;
+}
+
+section{
+  padding:5% 20%;
+  text-align: center;
+}
+
+.hotel{
+  max-height:31vh;
+}
+
+
+.Slides{
+  max-height: auto;
+  max-width: 800px;
+}
+
+.tlacitko{
+  border:none;
+  display:inline-block;
+  padding:8px 16px;
+  vertical-align:middle;
+  overflow:hidden;
+  text-decoration:none;
+  color:inherit;
+  background-color:inherit;
+  text-align:center;
+  cursor:pointer;
+  white-space:nowrap}
+}
