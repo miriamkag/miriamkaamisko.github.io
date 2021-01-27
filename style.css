@@ -33,35 +33,6 @@ aside{
   flex-grow: 0.9;
 }
 
-/*media hlavá sekcia
-@media (max-width: 1200px)
-{  main {
-  display: block;
-  margin-bottom:2%;
-  height: 100vh;
-  }
-
-  .uvod{
-  height: 50vh;
-  min-width: 50%;
-  background-image:url(Images/MyInvitation-Copy.jpeg);
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-size: cover;
-  opacity: 0.9;
-  text-align: center;
-  }
-
-  aside{
-    background-image:url(Images/Svatba.JPG);
-    background-size: cover;
-    background-position: 40% 50%;
-    min-width: 300px;
-    max-height: 50vh;
-    opacity: 0.9;
-    }
-  }}
-  */
 
 /*písmo*/
 h1{
@@ -93,41 +64,6 @@ h4{
   color: #ee261d;
   font-style: oblique;
 }
-
-/*písmo media
-@media (max-width: 1200px)
-{  h1{
-    padding-top: 13vh;
-    padding-bottom:3vh;
-    font-size: 35px;
-    font-style: oblique;
-    font-family: serif;
-    letter-spacing: 4px;
-    color: #ee261d;
-    }
-
-    h2{
-      padding-bottom: 6vh;
-      font-size: 25px;
-      font-style: oblique;
-      color: #ee261d;
-    }
-
-    h5{
-      font-style: oblique;
-      font-size: 17px;
-      padding-bottom: 2vh;
-    }
-
-    h4{
-      font-size: 30px;
-      margin: 3vh auto;
-      colr: #897129;
-      color: #ee261d;
-      font-style: oblique;
-    }
-  }
-*/
 
 
 .Neco{
@@ -225,6 +161,7 @@ section{
 .hotel{
   max-height:31vh;
 }
+
 
 .imagecontainer, .mySlides {
   max-width: 800px;
