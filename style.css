@@ -117,11 +117,7 @@ iframe{
   justify-content: space-between;
 }
 
-.rsvp {
-  background-color: #ffe9ec;
-  max-height: 100vh;
-  width: 1000px;
-}
+
 
 .tlacitko{
   user-select: none;
@@ -161,6 +157,12 @@ section{
   background-position: center;
 }
 
+.RSVP {
+  background-color: #ffe9ec;
+  max-height: 100vh;
+  width: 1000px;
+  text-align: center;
+}
 
 .hotel{
   max-height:31vh;
