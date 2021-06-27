@@ -118,18 +118,18 @@ iframe{
 #dotaznik{
   margin: 2vh;
   height: 65vh;
-  width: 100%;
+  width: 80%;
 }
 
 .firstsection{
   margin-top: 3vh;
 }
 
-.rsvp {
+/*.rsvp {
   background-color: #ffe9ec;
   max-height: 100vh;
   width: 100px;
-}
+}*/
 
 .tlacitko{
   user-select: none;
