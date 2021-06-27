@@ -125,11 +125,11 @@ iframe{
   margin-top: 3vh;
 }
 
-/*.rsvp {
+.rsvp {
   background-color: #ffe9ec;
   max-height: 100vh;
   width: 100px;
-}*/
+}
 
 .tlacitko{
   user-select: none;
